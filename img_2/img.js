@@ -1,7 +1,7 @@
 var img;
 
 function preLoad(){
-  img = loadImage("C:\Users\hudso\OneDrive\Desktop\Class2210\img_practice\mui goku.png");
+  img = loadImage("https://github.com/hhodge8/Hodges_Hudson_Art2210/raw/master/img_2/mui%20goku.png");
 }
 
 function setup(){
