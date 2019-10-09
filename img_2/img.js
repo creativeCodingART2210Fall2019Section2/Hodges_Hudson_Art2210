@@ -9,7 +9,7 @@ function setup(){
 }
 
 function draw(){
-  image(img, windowWidth/2, windowHeight/2);
+  image(img, windowWidth, windowHeight);
 }
 
 function windowResized(){
